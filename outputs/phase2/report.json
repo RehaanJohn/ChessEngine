@@ -1,0 +1,17 @@
+{
+  "neurons": 166700,
+  "connections": 25582938,
+  "precision": "float32",
+  "alpha": 0.25,
+  "gain": 1.0,
+  "timesteps": 100,
+  "pulse_steps": 5,
+  "seed": 42,
+  "latency_seconds": 1.9403279999969527,
+  "mean_ms_per_step": 19.403279999969527,
+  "final_mean_abs_activity": 3.0682478779908706e-08,
+  "final_active_fraction": 2.399520053586457e-05,
+  "final_descending_activity": 1.6315397644017793e-10,
+  "determinism": "passed",
+  "activity_bounds": "passed"
+}
